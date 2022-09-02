@@ -12,8 +12,11 @@ Example article in wiki. Edit this in markdown.
 ## Title
 ### Smaller title
 
+loool
 
 **bold**, *italic*, [link](/somewhere)
+
+[review](/wiki/review)
 
 - list item 1
 - list item 2
