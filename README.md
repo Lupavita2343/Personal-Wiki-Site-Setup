@@ -29,3 +29,10 @@ bundle install
 bundle add jekyll
 bundle exec jekyll serve
 ```
+
+{% raw %} \(\\ A_{b} \\\) {% endraw %}
+
+- `git status -s` : See git current status.
+- `git add *filenames` : tell git a file should be tracked and has changes.
+- `git commit -m 'some description'` : Persist the changes added since the last commit
+- `git push origin` : Transfer all commits to productive site.
