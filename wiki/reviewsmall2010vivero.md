@@ -1,7 +1,7 @@
 ---
-title: "Review Small 2010 Vivero - summary"
+title: "Summary of Small 2010 Vivero"
 date: 2022-09-02
-description: "Excerpt and notes"
+description: "REVIEW: Excerpt and notes"
 tags: 2010, silica, nanoparticles, Vivero, subcutaneous, intraperitoneal, intravenous, preclinico
 importance: 5
 uses_mathjax: true
