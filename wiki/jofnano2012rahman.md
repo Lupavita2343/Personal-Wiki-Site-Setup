@@ -35,9 +35,9 @@ Silica nanoparticles can also be produced through high temperature flame decompo
 - By fixing concentration of reactants and temperature, **the particle size and particle distribution of silica nanoparticle were highly dependent on mixing modes.** Mode-A has produced monodispersed powder with average particles size of ∼10 nm. The use of freeze dryer has further improved the quality of powder."
  
 
-<img src="resources/Figure4JofNano.png" alt="Figure4JofNano" height="326" width="1085">
+<img src="../resources/Figure4JofNano.png" alt="Figure4JofNano" height="326" width="1085">
 
-<img src="resources/Figure5JofNano.png" alt="Figure5JofNano" height="541" width="605">
+<img src="../resources/Figure5JofNano.png" alt="Figure5JofNano" height="541" width="605">
 	
 
 **Drying and Agglomeration Phenomena**
