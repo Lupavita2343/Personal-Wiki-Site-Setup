@@ -6,10 +6,10 @@ tags: 2012, silica, nanoparticles, Fariji
 importance: 5
 ---
 
-## Nanoparticles in cellular drug delivery
+# Nanoparticles in cellular drug delivery
 [Link to the full review](https://drive.google.com/file/d/1w8V8RuvdMXEF65-sQ-553kinBt3djfGP/view?usp=sharing)
 
-# Nanoparticle types
+## Nanoparticle types
 
 <img src="../resources/Figure1BmcFariji.png" alt="Figure1BmcFariji" height="422" width="669">
 
@@ -25,7 +25,7 @@ ethylamine and capped with water-soluble mercaptoacetic acid-derivatized CdS nan
 
 This review also lists the properties of polymeric nanoparticles, solid lipid nanoparticles, nanotubes, liposomes, dendrimers and nanocrystals which are not relevant to our current research so I will not include them in the summary.
 
-# Nanoparticle synthesis and conjugation methodologies
+## Nanoparticle synthesis and conjugation methodologies
 
 **Silica nanoparticles**
 
@@ -37,7 +37,7 @@ limitation** (in 2009).
 
 This review also lists the synthesis of gold nanoparticles, carbon nanotubes, calcium phosphate nanoparticles, layered double hydroxide nanoparticles, iron oxide nanoparticles, fullerenes and quantum dots which are not relevant to our current research so I will not include them in the summary.
 
-# Nanoparticle pharmacokinetics
+## Nanoparticle pharmacokinetics
 
 **Distribution**
 
@@ -75,7 +75,7 @@ We may be able to infer that these nanoparticles may promote, if not trigger, lo
 One mechanism whereby nanoparticles trigger inflammation involves the generation of **reactive oxygen species (ROS)**. This is believed to be due to the greater surface area of nanoparticles, thus
 permitting more interactions with the biological environment and cellular components, and the myriad of transition metals often associated with the preparation of these materials. For instance, interactions between polystyrene nanoparticles and associated transition metals were reported to have a synergistic effect in ROS generation and subsequent inflammation (as shown in the studies done by [D. Brown](https://drive.google.com/file/d/1d_3cznLUzj1jDbkquryIKcXG-vkIbRhu/view?usp=sharing) and [C. Dick](https://drive.google.com/file/d/14qBiJNY6YMbgnp55561O1PwTU2IqhPl3/view?usp=sharing)). Through these studies, some types of nanoparticles were shown to be potent inducers of oxidative stress in macrophages by activating heme oxygenase-1 and depleting intracellular glutathione. Additionally, mice exposed via inhalation to single-wall carbon nanotubes exhibited noteworthy pulmonary pathologic changes at small and high doses. The generalizability of these pulmonary and cardiovascular toxicities to other systems remains unknown."
 
-# Mechanisms of cellular targeting
+## Mechanisms of cellular targeting
 
 **Nanoparticle uptake by tissues and cellular phagocytosis/endocytosis**
 
@@ -83,7 +83,7 @@ The information in this section doesn't differ from what's already been stablish
 
 <img src="../resources/Figure2BmcFariji.png" alt="Figure2BmcFariji" height="379" width="669">
 
-# Nanoparticle drug delivery for human therapeutics
+## Nanoparticle drug delivery for human therapeutics
 
 "Nanoparticles have found widespread use in drug delivery, counting more than a dozen FDA-approved variants with indications ranging from cancer to infection."
 
@@ -91,6 +91,6 @@ The information in this section doesn't differ from what's already been stablish
 
 Then the review detailes cases of neurological cancers, neurovascular diseases and neurodegenerative diseases  and how to (potencially or not) treat them with nanoparticles. Since it's not relevant to our current research, I will not include them in the summary.
 
-# Conclusions
+## Conclusions
 
 "Nanotechnology will assume an essential place in drug delivery and human therapeutics. A wide variety of nanoparticles exist already, and diverse methods of synthesis have been developed. The pharmacokinetic parameters of these nanoparticles may be altered according to size, shape, and surface functionalization. Careful design of nanoparticle delivery agents will result in successful localization and drug delivery to specific biological targets coupled with the efficient evasion of the reticuloendothelial system. Moreover, nanoparticles can be used to alter the kinetic profiles of drug release, leading to more sustained release of drugs with a reduced requirement for frequent dosing. Particularly interesting applications of nanoparticles in drug delivery relate to the central nervous system and the cardiovascular system. The blood-brain barrier is a formidable challenge for many therapeutic agents; nanotechnology may breach this barrier and establish a new frontier for neuropharmacologic agents." 

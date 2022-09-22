@@ -6,9 +6,9 @@ tags: 2012, silica, nanoparticles, Rahman, subcutaneous, intraperitoneal, intrav
 importance: 5
 ---
 
-## Summary of "Synthesis of Silica Nanoparticles by Sol-Gel: Size-Dependent Properties, Surface Modification, and Applications in Silica-Polymer Nanocomposites — A Review"
+# Summary of "Synthesis of Silica Nanoparticles by Sol-Gel: Size-Dependent Properties, Surface Modification, and Applications in Silica-Polymer Nanocomposites — A Review"
 
-# Introduction and synthesis
+## Introduction and synthesis
 
 **Note: There is a lot of technical chem content.**
 
@@ -65,7 +65,7 @@ area. However, the silanol number decrease with the decrease in the particle siz
 - *Optical Properties* Silica nanoparticles have been widely studied owing to several interesting optical phenomena caused by point defects generated from any defect imperfect SiO4 continuous network, including oxygen and silicon vacancies. These point defects can also be divided into two groups: paramagnetic and diamagnetic. Paramagnetic defects have optical absorption which represents half-occupied energy level in the optical band gap. Thus, hole transition or electron transition to the valence band is possible. Diamagnetic defects have absorption band associated with electron
 transition to the conduction band. These defects and their combination are able to exhibit diversity of absorption and PL bands in broad range of wavelength, near-infrared, visible, and ultraviolet (UV). Hence, optical absorption and photoluminescence (PL) become two useful tools for monitoring optical changes resulting from structural defect at the nanoparticle bulk and surface. (For more details, check the review)
 
-# Silica-Filled Polymer Nanocomposites
+## Silica-Filled Polymer Nanocomposites
 
 "One of the prominent applications of silica nanoparticles is as fillers or reinforcement in advanced composite materials. Chemical modifications of silica (filler) surface and effective mixing method are two main routes that can lead to homogenous filler distribution. The following sections briefly review the important aspects of silica-polymer nanocomposites, as stated above, such as chemical modification of silica surface, the preparation method for nanocomposites, and the effect of silica nanoparticles on the properties of nanocomposites."
 
